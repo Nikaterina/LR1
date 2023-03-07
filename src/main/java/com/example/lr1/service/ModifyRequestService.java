@@ -1,6 +1,6 @@
-package com.example.lr3.service;
+package com.example.lr1.service;
 
-import com.example.lr3.model.Request;
+import com.example.lr1.model.Request;
 
 public interface ModifyRequestService {
 
